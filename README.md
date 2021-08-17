@@ -3,7 +3,7 @@
 Abstract:
 
 Our project is about handwritten digits recognition in tirhuta language. It is one of the ancient language used Northern part of India and some part of Nepal. It is also called Maithili language derived from Mithala.
-The thing which drives us to do this project is that as the old ancients documentations and monuments are discovering day by day, preserving those things is still a hectic job as it totally required human labor. Documenting digitally those documents and converting documents into universal language is the main focus of our initiative.
+The thing which drives us to do this project is that as the old ancients documentations and monuments are discovering day by day, preserving those things is still a hectic job as it totally required human labor. Documenting digitally those documents and converting documents into universal language is the main focus of our initiative. We created the custom dataset and perform image preprocessing on it to reduce the time taken for processing.
 
 Instructions:
 
